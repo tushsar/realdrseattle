@@ -64,11 +64,8 @@ nav ul li a:hover {
 }
 
 .text-content h1 span {
-    font-family: 'roboto', sans-serif; /* Adjust the font family as needed */
-    font-weight: bold;
     color: transparent;
     -webkit-text-stroke: 1px white; /* White outline */
-    text-shadow: 0 0 10px rgba(0, 0, 0, 0.5); /* Optional: slight shadow */
     letter-spacing: 5px; /* Adjust spacing as needed */
 }
 
