@@ -184,6 +184,10 @@ input.error {
     border-color: #ff4d4d;
 }
 
+footer img {
+    margin-top: -100px;
+}
+
 
 /* Responsive Styles */
 
