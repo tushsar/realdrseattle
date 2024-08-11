@@ -3,7 +3,7 @@ body {
     margin: 0;
     font-family: 'Montserrat', sans-serif;
     color: white;
-    background-image: url('Dunton-Group.png');
+    background-image: linear-gradient(to bottom, rgba(49, 125, 105, 0.72), rgba(0, 0, 0, 0.73)), url('Dunton-Group.png');
     background-size: cover;
     background-position: center;
 }
